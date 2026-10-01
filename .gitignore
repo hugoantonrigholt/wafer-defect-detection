@@ -1,0 +1,9 @@
+# the dataset is big and comes from Kaggle, so it doesn't go in git
+data/*
+!data/README.md
+
+# trained models and notebook leftovers
+models/
+.ipynb_checkpoints/
+__pycache__/
+/.idea
