@@ -8,7 +8,7 @@ based on the defect pattern a neural network recognises on each wafer map.
    `python -m venv C:\Users\<you>\venvs\wafer-cell`
 2. Install PyTorch with CUDA 12.8, then `pip install -r requirements.txt`
 3. Download the dataset, see `data/README.md`
-4. In PyCharm, set the project interpreter to the wafer-cell environment, then open `notebooks/01_explore_data.ipynb`
+4. In PyCharm, set the project interpreter to the wafer-cell environment, then open `notebooks/0000_explore_data.ipynb`
 
 ## Steps
 1. `01_explore_data` - load the maps, look at them, count the classes
